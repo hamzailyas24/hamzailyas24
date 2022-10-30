@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer (React / Reactnative)</h3>
 
 
-- 👀 I’m interested in React, React Native, JavaScript, Typescript, NextJS, GatsbyJS, MongoDB, NodeJS, ExpressJS, Firebase, MERN, Server-less, AWS, ESLint, Cypress
+- 👀 Ask me about React, React Native, JavaScript, Typescript, NextJS, GatsbyJS, MongoDB, NodeJS, ExpressJS, Firebase, MERN, Server-less, AWS, ESLint, Cypress
 - 🌱 I’m currently learning Blockchain, Solidity, NFTs, DeFi, GameFi, DApps.
 - 📫 How to reach me hamza24061@gmail.com
 - ⚡ Fun fact I turn the imaginations in mind into the realistic products.
