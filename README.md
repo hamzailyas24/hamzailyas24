@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Ilyas</h1>
-<h3 align="center">Cross-Functional Web & Mobile Application Developer</h3>
+<h3 align="center">Software Engineer (React / Reactnative)</h3>
 
 
 - 👀 I’m interested in React, React Native, JavaScript, Typescript, NextJS, GatsbyJS, MongoDB, NodeJS, ExpressJS, Firebase, MERN, Server-less, AWS, ESLint, Cypress
