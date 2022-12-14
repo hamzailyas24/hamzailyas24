@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer (React / Reactnative)</h3>
 
 
-- 👀 Ask me about React Native, ReactJS, JavaScript, MongoDB, NodeJS, ExpressJS, Firebase, MERN
+- 👀 Ask me about Reactnative, ReactJS, JavaScript, MongoDB, NodeJS, ExpressJS, Firebase, MERN
 - 🌱 I’m currently learning Blockchain, Solidity, NFTs, DeFi, GameFi, DApps.
 - 📫 How to reach me hamzailyas0314@gmail.com
 - ⚡ Fun fact I turn the imaginations in mind into the realistic products.
