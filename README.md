@@ -4,7 +4,7 @@
 
 - 👀 Ask me about React Native, ReactJS, JavaScript, MongoDB, NodeJS, ExpressJS, Firebase, MERN
 - 🌱 I’m currently learning Blockchain, Solidity, NFTs, DeFi, GameFi, DApps.
-- 📫 How to reach me hamza24061@gmail.com
+- 📫 How to reach me hamzailyas0314@gmail.com
 - ⚡ Fun fact I turn the imaginations in mind into the realistic products.
 
 <h3 align="left">Connect with me:</h3>
