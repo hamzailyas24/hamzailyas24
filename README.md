@@ -3,7 +3,7 @@
 
 
 - 👀 Ask me about Reactnative, ReactJS, JavaScript, MongoDB, NodeJS, ExpressJS, Firebase, Dialogflow, Alexa Skill Kit.
-- 🌱 I’m currently learning Blockchain, Solidity, NFTs, DeFi, GameFi, DApps.
+- 🌱 I’m currently learning DevOps and Cloud Engineering.
 - 📫 How to reach me hamzailyas0314@gmail.com
 - ⚡ Fun fact I turn the imaginations in mind into the realistic products.
 
