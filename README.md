@@ -16,7 +16,7 @@
 
 ## ✦ About Me
 
-I'm a **software engineer based in Karachi, Pakistan**, focused on building polished mobile experiences, robust full-stack platforms, and practical AI-powered products. I enjoy taking projects from architecture and prototype through integration, testing, and deployment.
+I'm a **software engineer based in Pakistan**, focused on building polished mobile experiences, robust full-stack platforms, and practical AI-powered products. I enjoy taking projects from architecture and prototype through integration, testing, and deployment.
 
 - 📱 Building mobile applications with **React Native** and modern web experiences with **Next.js**.
 - ⚙️ Designing APIs, background jobs, and data-driven systems with **Node.js, NestJS, FastAPI, PostgreSQL, and Redis**.
