@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Hamza Ilyas profile banner" />
+<img src="banner.svg" width="100%" alt="Hamza Ilyas profile banner" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+products+from+idea+to+launch;React+Native+%7C+Next.js+%7C+Node.js+%7C+Python;AI+Agents+%7C+FinTech+%7C+Scalable+Systems;Turning+complex+ideas+into+real-world+software" alt="Animated introduction" /></a>
 
@@ -102,6 +102,6 @@ I enjoy collaborating on **mobile apps, SaaS products, AI integrations, FinTech 
 <a href="mailto:hamza24061@gmail.com"><img src="https://img.shields.io/badge/Start_a_Conversation-Email_Me-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
 <a href="https://linkedin.com/in/hamzailyas24"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
-<img src="assets/footer.svg" width="100%" alt="Decorative footer" />
+<img src="footer.svg" width="100%" alt="Decorative footer" />
 
 </div>
